@@ -2,7 +2,7 @@
 
 Software Tester | Machine Learning Enthusiast
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
 In the past I worked as a Software tester and also hold experience working onsite for UAT. I eventually had to quit my software engineering job for personal reasons. However now since the situation eases me, I now desire to get back on my track and continue as a techie.  
    	I again started my coding journey as a naive student with a passion to learn AI world - Machine Learning, Sklearn, Deep Learning, Tensorflow, Keras, Computer vision ect..  My desire is to land in as a Data Scientist or say AI Engineer and this has been my focus ever since I have known about AI. 
@@ -19,7 +19,7 @@ Hopefully the measures that I'm taking will set me; be ready, up and working by 
 I realised that, satisfaction is a book of achievement, which holds learning experience, records of doing, trying, twiddling, getting failed, trying again and finally succeeding in what you aimed at and I'm still going through all these as it keeps me updated, learning new things.
 
 ### Skills: 
-* ⚛ SDLC, STLC   ⚛ Manual Testing, Automation (VB Script)   ⚛ Waterfall model, Agile Methodology
+* ⚛ SDLC  ⚛ STLC  ⚛ Manual Testing  ⚛ Automation (VB Script)  ⚛ Waterfall model ⚛ Agile Methodology
 * 💻 Python
 * 💻 Machine Learning
 * 💻 Deep Learning
