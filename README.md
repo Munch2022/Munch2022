@@ -18,7 +18,17 @@ Hopefully the measures that I'm taking will set me; be ready, up and working by 
 
 I realised that, satisfaction is a book of achievement, which holds learning experience, records of doing, trying, twiddling, getting failed, trying again and finally succeeding in what you aimed at and I'm still going through all these as it keeps me updated, learning new things.
 
-Skills: SDLC / STLC /  VB script /  Water fall model / Agile methodology/  Python / ML / DL / SQL / Excel / Power BI / 
+### Skills: 
+* ⚛ SDLC, STLC
+* ⚛ Manual Testing, Automation (VB Script)
+* ⚛ Waterfall model, Agile Methodology
+* 💻 Python
+* 💻 Machine Learning
+* 💻 Deep Learning
+* 💻 SQL
+* 💻 Excel
+* 💻 Power BI
+
 
 - 🔭 I’m currently working on A Chatbot Project 
 - 🌱 I’m currently learning Deep Learning, NLP, Computer Vision 
