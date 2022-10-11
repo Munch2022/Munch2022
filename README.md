@@ -12,3 +12,5 @@ Hopefully the measures that I'm taking will set me; be ready, up and working by 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munch2022)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munch2022)](https://github.com/anuraghazra/github-readme-stats)
+
