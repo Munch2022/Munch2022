@@ -19,21 +19,13 @@ Hopefully the measures that I'm taking will set me; be ready, up and working by 
 I realised that, satisfaction is a book of achievement, which holds learning experience, records of doing, trying, twiddling, getting failed, trying again and finally succeeding in what you aimed at and I'm still going through all these as it keeps me updated, learning new things.
 
 ### Skills: 
-* ⚛ SDLC, STLC
-* ⚛ Manual Testing, Automation (VB Script)
-* ⚛ Waterfall model, Agile Methodology
+* ⚛ SDLC, STLC   ⚛ Manual Testing, Automation (VB Script)   ⚛ Waterfall model, Agile Methodology
 * 💻 Python
 * 💻 Machine Learning
 * 💻 Deep Learning
 * 💻 SQL
 * 💻 Excel
 * 💻 Power BI
-
-
-- 🔭 I’m currently working on A Chatbot Project 
-- 🌱 I’m currently learning Deep Learning, NLP, Computer Vision 
-- 👯 I’m looking to collaborate on More AI concepts 
-
 
 ### Languages and Tools:
 
@@ -44,6 +36,10 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
 
-
-
+- 🔭 I’m currently working on : A Chatbot Project 
+- 🌱 I’m currently learning : Deep Learning, NLP, Computer Vision 
+- 👯 I’m looking to collaborate on : More AI concepts 
+- 💬 Words that describe me: motivated, Focused, Hardworking and trying to be Perfectionist  
+- 📫 Reach me: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Munch2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/g.or.manjula/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/g.or.manjula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/g.or.manjula/) 
 
