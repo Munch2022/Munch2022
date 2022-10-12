@@ -18,10 +18,11 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 
 ### Skills: 
 * ⚛ SDLC  ⚛ STLC  ⚛ Manual Testing  ⚛ Automation (VB Script)  ⚛ Waterfall model ⚛ Agile Methodology
-* 💻 Python
+* 💻 Python                        
 * 💻 Machine Learning
-* 💻 Deep Learning
+* 💻 Deep Learning     
 * 💻 SQL
+* 💻 NLP  
 * 💻 Excel
 * 💻 Power BI
 
@@ -33,10 +34,13 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 [<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 [<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
+### 
+
+### 📜 What I'm I upto .. 
 
 - 🔭 I’m currently working on : A Chatbot Project 
 - 🌱 I’m currently learning : Deep Learning, NLP, Computer Vision 
 - 👯 I’m looking to collaborate on : More AI concepts 
-- 💬 Words that describe me: motivated, Focused, Hardworking and trying to be Perfectionist  
+- 😊 Words that describe me: motivated, Focused, Hardworking and trying to be Perfectionist  
 - 📫 Reach me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Munch2022) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/manjula-das-30520918)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/g.or.manjula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/g.or.manjula/) 
