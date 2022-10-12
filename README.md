@@ -8,8 +8,6 @@ In the past I worked as a Software tester and also hold experience working onsit
    	I again started my coding journey as a naive student with a passion to learn AI world - Machine Learning, Sklearn, Deep Learning, Tensorflow, Keras, Computer vision ect..  My desire is to land in as a Data Scientist or say AI Engineer and this has been my focus ever since I have known about AI. 
     I would want to utilize my knowledge and ideas in the field of machine learning. Some of the projects here are built from the ground up, from planning, exploring, designing/modeling and deploying all the way to solve real-life problems. 
 
-Hopefully the measures that I'm taking will set me; be ready, up and working by the end of 2022 🤞
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munch2022&show_icons=true&theme=tokyonight)
 
@@ -29,12 +27,12 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 
 ### Languages and Tools:
 
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
+[<img align="left" alt="python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="flask" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
+[<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
+[<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
 
 - 🔭 I’m currently working on : A Chatbot Project 
 - 🌱 I’m currently learning : Deep Learning, NLP, Computer Vision 
