@@ -35,11 +35,9 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 <img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
-![image](https://user-images.githubusercontent.com/111883941/200838062-dd3fa0ad-872b-4422-a207-109918b3e4b0.png)
-![image](https://user-images.githubusercontent.com/111883941/203029263-8e1d7ecd-6e49-4cd5-b8ef-7452592b5d15.png)
+![image](https://user-images.githubusercontent.com/111883941/203031244-8856844b-42eb-42d8-912e-d425667497b9.png)
+![image](https://user-images.githubusercontent.com/111883941/203031281-023f6788-0f73-49be-8f3f-53d395394a0b.png)
 ![image](https://user-images.githubusercontent.com/111883941/203028683-6025ff1d-c297-4217-8c2a-d35d75b59754.png)
-
-
 
 
 
