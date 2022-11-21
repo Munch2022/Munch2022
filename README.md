@@ -33,7 +33,8 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 <img align="left" alt="SQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left"alt="Docker"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" 
+/>
 
 ![image](https://user-images.githubusercontent.com/111883941/203081995-bd0fb296-4741-42f2-9e6f-b19b1d8be652.png)
 ![image](https://user-images.githubusercontent.com/111883941/203031281-023f6788-0f73-49be-8f3f-53d395394a0b.png)
