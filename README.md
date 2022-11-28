@@ -8,10 +8,9 @@ In the past I worked as a Software tester and also hold experience working onsit
    	I again started my coding journey as a naive student with a passion to learn AI world - Machine Learning, Sklearn, Deep Learning, Tensorflow, Keras, Computer vision ect..  My desire is to land in as a Data Scientist or say AI Engineer and this has been my focus ever since I have known about AI. 
     I would want to utilize my knowledge and ideas in the field of machine learning. Some of the projects here are built from the ground up, from planning, exploring, designing/modeling and deploying all the way to solve real-life problems. 
 
+![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munch2022&show_icons=true&theme=cobalt)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munch2022&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munch2022&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munch2022&show_icons=true&theme=cobalt)](https://github.com/Munch2022/github-readme-stats)
 
 
 I realised that, satisfaction is a book of achievement, which holds learning experience, records of doing, trying, twiddling, getting failed, trying again and finally succeeding in what you aimed at and I'm still going through all these as it keeps me updated, learning new things.
