@@ -30,13 +30,11 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 ![image](https://user-images.githubusercontent.com/111883941/209343679-d53117d9-7b60-484d-a7d2-72ecb7aac795.png)
 ![image](https://user-images.githubusercontent.com/111883941/209342042-0282fd4f-431a-4158-b88d-361758d9a29d.png)
 ![image](https://user-images.githubusercontent.com/111883941/209342244-c382084e-e6a5-4236-b7dd-23fa3aead52e.png)
-![image](https://user-images.githubusercontent.com/111883941/209342259-e740e118-b5f8-4318-8b1f-8931f2357095.png)
 ![image](https://user-images.githubusercontent.com/111883941/209342275-816e0419-0695-4575-b8cc-ce2610bf0635.png)
-![image](https://user-images.githubusercontent.com/111883941/209342289-d22aac76-6b60-463c-8792-4226652dd6b7.png)
 ![image](https://user-images.githubusercontent.com/111883941/209343049-478e587e-f4f8-4deb-9322-f6ed37436cd6.png)
 ![image](https://user-images.githubusercontent.com/111883941/209342960-c86a7202-1b05-40b5-a0b6-233aa3c42646.png)
-![image](https://user-images.githubusercontent.com/111883941/209344110-165ec912-386f-4c7a-9d83-f1d5edccb17f.png)
 ![image](https://user-images.githubusercontent.com/111883941/209345243-a862723e-4ea0-4e43-aa45-e50d36166459.png)
+![image](https://user-images.githubusercontent.com/111883941/209342289-d22aac76-6b60-463c-8792-4226652dd6b7.png)
 ![image](https://user-images.githubusercontent.com/111883941/209344435-207fe8db-df21-44e8-b18d-36f2148a6be8.png)
 
 
