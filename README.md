@@ -24,18 +24,19 @@ I realised that, satisfaction is a book of achievement, which holds learning exp
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left"alt="Docker"width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" 
-/>
-
-![image](https://user-images.githubusercontent.com/111883941/203081995-bd0fb296-4741-42f2-9e6f-b19b1d8be652.png)
-![image](https://user-images.githubusercontent.com/111883941/203031281-023f6788-0f73-49be-8f3f-53d395394a0b.png)
-![image](https://user-images.githubusercontent.com/111883941/203082035-2ac52ab7-7824-41fd-93fd-ce585e7df23e.png)
-
+![image](https://user-images.githubusercontent.com/111883941/209342030-6b35e7fe-2d51-4ce2-9771-15572f868256.png)
+![image](https://user-images.githubusercontent.com/111883941/209343997-1916631d-4503-460f-bcb4-5e4fefadd639.png)
+![image](https://user-images.githubusercontent.com/111883941/209344023-96fd2ca6-745a-48cb-a0f5-c58a00491884.png)
+![image](https://user-images.githubusercontent.com/111883941/209343679-d53117d9-7b60-484d-a7d2-72ecb7aac795.png)
+![image](https://user-images.githubusercontent.com/111883941/209342042-0282fd4f-431a-4158-b88d-361758d9a29d.png)
+![image](https://user-images.githubusercontent.com/111883941/209342244-c382084e-e6a5-4236-b7dd-23fa3aead52e.png)
+![image](https://user-images.githubusercontent.com/111883941/209342259-e740e118-b5f8-4318-8b1f-8931f2357095.png)
+![image](https://user-images.githubusercontent.com/111883941/209342275-816e0419-0695-4575-b8cc-ce2610bf0635.png)
+![image](https://user-images.githubusercontent.com/111883941/209342289-d22aac76-6b60-463c-8792-4226652dd6b7.png)
+![image](https://user-images.githubusercontent.com/111883941/209343049-478e587e-f4f8-4deb-9322-f6ed37436cd6.png)
+![image](https://user-images.githubusercontent.com/111883941/209342960-c86a7202-1b05-40b5-a0b6-233aa3c42646.png)
+![image](https://user-images.githubusercontent.com/111883941/209344110-165ec912-386f-4c7a-9d83-f1d5edccb17f.png)
+![image](https://user-images.githubusercontent.com/111883941/209344435-207fe8db-df21-44e8-b18d-36f2148a6be8.png)
 
 
 ###
