@@ -6,8 +6,6 @@
 
 I realised that, satisfaction is a book of achievement, which holds learning experience, records of doing, trying, twiddling, getting failed, trying again and finally succeeding in what you aimed at and I'm still going through all these as it keeps me updated, learning new things.
 
-![Manjula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munch2022&show_icons=true&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munch2022&show_icons=true&theme=cobalt)](https://github.com/Munch2022/github-readme-stats)
 
 
