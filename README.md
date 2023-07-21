@@ -1,6 +1,6 @@
 ## Hi there, 👋 I'm Manjula! 
 
-## Software Tester | Machine Learning Enthusiast
+## Software Tester | AIML | IBM Certifications on DA/ML/DL
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
